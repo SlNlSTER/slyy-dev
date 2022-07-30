@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 👨‍💻 All of my projects are available at [Website, Soon](Website, Soon)
+- 👨‍💻 All of my projects are available at **Website, being made**
 
 - 📫 How to reach me **Discord - sly#3175**
 
