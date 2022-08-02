@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slyy-dev" alt="slyy-dev" /></a> </p>
 
-- 🔭 I’m currently working on GMT *(https://discord.io/gmtuk)*
+- 🔭 I’m currently working on GMT *(https://discord.io/gmtuk) & Xtreme deathmatch*
 
 - 🌱 I’m currently learning **Javascript**
 
