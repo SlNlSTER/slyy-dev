@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sly</h1>
+<h1 align="center">Hi 👋, I'm Morosis</h1>
 <h3 align="center">A learning developer from the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slyy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="slyy-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slyy-dev" alt="slyy-dev" /></a> </p>
 
-- 🔭 I’m currently working on GMT *(https://discord.io/gmtuk) & Xtreme deathmatch*
+- 🔭 I’m currently working on GMT *(https://discord.io/gmtuk)*
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **Website, being made**
 
-- 📫 How to reach me **Discord - sly#3175**
+- 📫 How to reach me **Discord - morosis#1111**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
