@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Slyy</h1>
+<h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A learning developer from the United Kingdom</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slyy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="slyy-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slyy-dev&label=Profile%20views&color=0e75b6&style=flat" alt=Ben-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slyy-dev" alt="slyy-dev" /></a> </p>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Anything**
 
 - 👨‍💻 All of my projects are available at **Website, being made**
 
-- 📫 How to reach me **Discord - slyy#2484**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
